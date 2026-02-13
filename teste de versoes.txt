@@ -1,0 +1,2 @@
+git é o software de versionamento
+GitHub é plataforma de hospedagem de repositórios git
